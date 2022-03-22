@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Modern Data Platform, Tableau & BI solutions @whiteaway
 - 🌱 I’m currently learning about Azure, AWS and Google Cloud in general
-<!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Azure Data Architecture, Data Engineering, Tableau and other Data Visualization concepts
 - 📫 Reach me: at twitter @kasperulvedal or LinkedIn "Kasper Ulvedal"
-<!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I have a dog named Frida, after Frida Kahlo
