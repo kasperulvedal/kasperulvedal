@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full-Stack Data Specialist working in Aarhus, Denmark.
+I'm a Full-Stack Data freelancer working all over Europe, based in Denmark.
 
 <!--
 **kasperulvedal/kasperulvedal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Modern Data Platform @whiteaway
-- 🌱 I’m currently learning about Azure and Google Cloud in general
-- 💬 Ask me about Azure Data Architecture, Data Engineering, Tableau and other Data Visualization concepts
+- 🔭 I’m currently working on Data Integrations, Tableau and Power BI reporting stacks for various Clients
+- 🌱 I’m currently learning about ChatGPT
+- 💬 Ask me about Azure Data Architecture, Data Engineering, Tableau and Data Engineering concepts in general
 - 📫 Reach me: at twitter @kasperulvedal or LinkedIn "Kasper Ulvedal"
 - ⚡ Fun fact: I have a dog named Frida, after Frida Kahlo
