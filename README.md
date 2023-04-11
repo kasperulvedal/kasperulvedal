@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full-Stack Data freelancer working all over Europe, based in Denmark.
+I'm a Full-Stack Data freelancer based in Denmark.
 
 <!--
 **kasperulvedal/kasperulvedal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
