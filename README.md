@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Data Integrations, Tableau and Power BI reporting stacks for various Clients
-- 🌱 I’m currently learning about ChatGPT
-- 💬 Ask me about Azure Data Architecture, Data Engineering, Tableau and Data Engineering concepts in general
+- 🔭 I’m currently working on Data Integrations, Data Platforms and Power BI for various Clients
+- 🌱 I’m currently learning about the entire Azure Data Stack (which has been on-going for the past 8 years)
+- 💬 Ask me about Azure Data Architecture, Data Engineering, Data Warehousing, Power BI, Tableau and Data Platforms in general
 - 📫 Reach me: at twitter @kasperulvedal or LinkedIn "Kasper Ulvedal"
-- ⚡ Fun fact: I have a dog named Frida, after Frida Kahlo
+- ⚡ Fun facts: I love sparkling water, my favorit kitchen are the italian, my dog is named as the danish actor Bodil Udsen, i got my first computer when i was 4, i can do some magic tricks - but for some reason, I am always unlucky in cards.
